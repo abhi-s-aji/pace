@@ -354,104 +354,16 @@ Reflect Through Journal & Mood
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="screenshots/dashboard.png" width="240" alt="Dashboard Overview"/>
-        <br/>
-        <sub><b>Dashboard</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="screenshots/habits.png" width="240" alt="Habit Tracking"/>
-        <br/>
-        <sub><b>Habits</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="screenshots/focus.png" width="240" alt="Focus Timer"/>
-        <br/>
-        <sub><b>Focus Timer</b></sub>
-      </td>
+      <td><img src="screenshots/dashboard.png" width="180" alt=""/></td>
+      <td><img src="screenshots/habits.png" width="180" alt=""/></td>
+      <td><img src="screenshots/focus.png" width="180" alt=""/></td>
+      <td><img src="screenshots/consistency-map.png" width="180" alt=""/></td>
     </tr>
     <tr>
-      <td align="center" width="33%">
-        <img src="screenshots/consistency-map.png" width="240" alt="Consistency Map & Trends"/>
-        <br/>
-        <sub><b>Consistency Map</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <img src="screenshots/statistics.png" width="240" alt="Progress & Statistics"/>
-        <br/>
-        <sub><b>Progress & Stats</b></sub>
-      </td>
-      <td align="center" width="33%">
-        <br/>
-        <sub><b>Productivity System</b></sub>
-      </td>
+      <td><img src="screenshots/statistics.png" width="180" alt=""/></td>
     </tr>
   </table>
 </div>
-
----
-
-## Onboarding
-
-![Pace Onboarding](screenshots/onboarding.png)
-
----
-
-## Dashboard
-
-<div align="center">
-  <img src="screenshots/dashboard.png" alt="Pace Dashboard" width="280"/>
-</div>
-
----
-
-## Habit Tracking
-
-<div align="center">
-  <img src="screenshots/habits.png" alt="Pace Habits" width="280"/>
-</div>
-
----
-
-## Focus Timer
-
-<div align="center">
-  <img src="screenshots/focus.png" alt="Pace Focus Timer" width="280"/>
-</div>
-
----
-
-## Goals & Milestones
-
-![Pace Goals](screenshots/goals.png)
-
----
-
-## Consistency Map
-
-<div align="center">
-  <img src="screenshots/consistency-map.png" alt="Pace Consistency Map" width="280"/>
-</div>
-
----
-
-## History
-
-![Pace History](screenshots/history.png)
-
----
-
-## Statistics
-
-<div align="center">
-  <img src="screenshots/statistics.png" alt="Pace Statistics" width="280"/>
-</div>
-
----
-
-## Achievements
-
-![Pace Achievements](screenshots/achievements.png)
 
 ---
 
@@ -985,15 +897,16 @@ Pace is built using and inspired by the following open-source technologies and e
 
 <div align="center">
 
+
 ### Pace
 
 **Small actions. Real progress.**
 
 Built with Flutter, Dart, SQLite, and a focus on consistency.
 
-[GitHub](https://github.com/abhi-s-aji/pace) ·
-[Developer](https://github.com/abhi-s-aji) ·
-[LinkedIn](https://www.linkedin.com/in/abhi-s-aji-eden/) ·
-[Hashnode](https://hashnode.com/@abhi-s-aji)
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Abhi%20S%20Aji-181717?style=for-the-badge\&logo=github)](https://github.com/abhi-s-aji) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhi%20S%20Aji-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/abhi-s-aji-eden/) [![Hashnode](https://img.shields.io/badge/Hashnode-Abhi%20S%20Aji-2962FF?style=for-the-badge\&logo=hashnode)](https://hashnode.com/@abhi-s-aji) [![Pace](https://img.shields.io/badge/Pace-Repository-181717?style=for-the-badge\&logo=github)](https://github.com/abhi-s-aji/pace) 
 
 </div>
+
