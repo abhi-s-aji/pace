@@ -359,9 +359,6 @@ Reflect Through Journal & Mood
       <td><img src="screenshots/focus.png" width="180" alt=""/></td>
       <td><img src="screenshots/consistency-map.png" width="180" alt=""/></td>
     </tr>
-    <tr>
-      <td><img src="screenshots/statistics.png" width="180" alt=""/></td>
-    </tr>
   </table>
 </div>
 
