@@ -27,16 +27,7 @@ android {
     }
 
     signingConfigs {
-        create("release") {
-            val debugKeyStore = file("${System.getProperty("user.home")}/.android/debug.keystore")
-            if (debugKeyStore.exists()) {
-                storeFile = debugKeyStore
-                storePassword = "android"
-                keyAlias = "androiddebugkey"
-                keyPassword = "android"
-            } else {
-                initWith(getByName("debug"))
-            }
+        getByName("debug") {
             isV1SigningEnabled = true
             isV2SigningEnabled = true
         }
@@ -44,7 +35,7 @@ android {
 
     buildTypes {
         release {
-            signingConfig = signingConfigs.getByName("release")
+            signingConfig = signingConfigs.getByName("debug")
         }
     }
 }
