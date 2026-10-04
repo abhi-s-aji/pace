@@ -224,17 +224,9 @@ class _OnboardingPageState extends ConsumerState<OnboardingPage> {
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          Container(
-            padding: const EdgeInsets.all(24),
-            decoration: BoxDecoration(
-              color: PaceColors.primary.withValues(alpha: 0.12),
-              shape: BoxShape.circle,
-            ),
-            child: Icon(
-              Icons.speed_rounded,
-              size: 56,
-              color: PaceColors.primary,
-            ),
+          Image.asset(
+            'assets/images/pace_logo.png',
+            height: 84,
           ),
           const SizedBox(height: 32),
           Text(
