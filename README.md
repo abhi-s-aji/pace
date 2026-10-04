@@ -54,8 +54,6 @@ Track habits, focus sessions, long-term goals, milestones, journal entries, stre
 * [Contributing](#contributing)
 * [License](#license)
 * [Developer](#developer)
-* [Blog](#blog)
-
 ---
 
 # Overview
