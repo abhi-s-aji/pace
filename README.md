@@ -13,7 +13,6 @@ Track habits, focus sessions, long-term goals, milestones, journal entries, stre
 <br/>
 
 
-[![GitHub License](https://img.shields.io/github/license/abhi-s-aji/pace?style=for-the-badge\&label=License)](https://github.com/abhi-s-aji/pace/blob/main/LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/abhi-s-aji/pace?style=for-the-badge\&logo=github\&label=Stars)](https://github.com/abhi-s-aji/pace/stargazers)
 [![Flutter](https://img.shields.io/badge/Flutter-3.12.2%2B-02569B?style=for-the-badge\&logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.12.2%2B-0175C2?style=for-the-badge\&logo=dart)](https://dart.dev/)
